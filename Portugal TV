@@ -1,1 +1,7 @@
+#EXTM3U
+#EXTINF:0,BBC One N West
+http://-sid:e90d3c02baef3d18b5d232134e4e07fe199f8100ff2ff10b1492b9a7b25799b6@portugal11.mynetgear.com:7777/1:0:1:1929:7FF:2:11A0000:0:0:0:
+#EXTINF:-1,BBC Two Eng
+http://-sid:e90d3c02baef3d18b5d232134e4e07fe199f8100ff2ff10b1492b9a7b25799b6@portugal11.mynetgear.com:7777/1:0:1:189E:7FD:2:11A0000:0:0:0:
+
 
